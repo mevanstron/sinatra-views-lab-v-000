@@ -8,6 +8,7 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+require 'date'
 gem 'require_all'
     
 group :test do
